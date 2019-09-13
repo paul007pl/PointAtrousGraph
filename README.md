@@ -4,9 +4,12 @@
 
 ### Introduction
 This work is based on our [arXiv tech report](https://arxiv.org/abs/1907.09798).
+
 We propose a deep hierarchical Encoder-Decoder architecture with point atrous convolution to exploit multi-scale edge-aware features in unorganized 3D points.
+
 Experimental results show that our network outperform previous state-of-the-art methods, in 3D object classification, object-part segmentation and semantic segmentation.
 In particular, our proposed modules are more efficient (in terms of required training time and memory footprint) than previous networks which heavily rely on neighboring points.
+
 We encourage you to apply our proposed modules in more complicated point cloud applications.
 
 
