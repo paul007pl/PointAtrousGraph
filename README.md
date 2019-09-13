@@ -10,7 +10,15 @@ We propose a deep hierarchical Encoder-Decoder architecture with point atrous co
 Experimental results show that our network outperform previous state-of-the-art methods, in 3D object classification, object-part segmentation and semantic segmentation.
 In particular, our proposed modules are more efficient (in terms of required training time and memory footprint) than previous networks which heavily rely on neighboring points.
 
-We encourage you to apply our proposed modules in more complicated point cloud applications.
+We encourage you to apply our proposed modules for more complicated point cloud applications.
+
+
+### Installation
+The code has been tested with Tensorflow 1.4, CUDA 8.0 and Tensorflow 1.12, CUDA 9.0
+
+1. install required python libs
+2. download correspoinding dataset
+3. compile all the tensorflow ops
 
 
 ### Citation
