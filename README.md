@@ -25,17 +25,6 @@ The code has been tested with Tensorflow 1.4, CUDA 8.0 and Tensorflow 1.12, CUDA
 ### Citation
 If you find our work useful in your research, please consider citing:
 
-	@article{pan2019pointatrousnet,
-	  title={PointAtrousNet: Point Atrous Convolution for Point Cloud Analysis},
-	  author={Pan, Liang and Wang, Pengfei and Chew, Chee-Meng},
-	  journal={IEEE Robotics and Automation Letters},
-	  volume={4},
-	  number={4},
-	  pages={4035--4041},
-	  year={2019},
-	  publisher={IEEE}
-	}
-
 	@article{pan2019pointatrousgraph,
 	  title={PointAtrousGraph: Deep Hierarchical Encoder-Decoder with Atrous Convolution for Point Clouds},
 	  author={Pan, Liang and Chew, Chee-Meng and Lee, Gim Hee},
@@ -67,6 +56,17 @@ If you apply their modules, please consider citing their papers also:
 	  author={Wang, Yue and Sun, Yongbin and Liu, Ziwei and Sarma, Sanjay E. and Bronstein, Michael M. and Solomon, Justin M.},
 	  journal={ACM Transactions on Graphics (TOG)},
 	  year={2019}
+	}
+	
+	@article{pan2019pointatrousnet,
+	  title={PointAtrousNet: Point Atrous Convolution for Point Cloud Analysis},
+	  author={Pan, Liang and Wang, Pengfei and Chew, Chee-Meng},
+	  journal={IEEE Robotics and Automation Letters},
+	  volume={4},
+	  number={4},
+	  pages={4035--4041},
+	  year={2019},
+	  publisher={IEEE}
 	}
 
 ### License
